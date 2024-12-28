@@ -1,0 +1,291 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Final Project Persy
+</name>
+</assembly>
+<members>
+<member name="T:Final_Project_Persy.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.Admin_rafiki">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.Barang">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.Barcode_pana">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.cart">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.cashier_machine">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.cashier_machine_white">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.Empty_cuate">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.Empty_cuate1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.Empty_cuate2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.hide">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.history">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.history_white">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.home">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.Laporan">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.left_arrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.log_out">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.logo_persy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.logout">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.mail">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.menu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.menu_white">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.menu_white1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.No_data_rafiki">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.options_lines">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.output_onlinepngtools">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.output_onlinepngtools__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.output_onlinepngtools1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.padlock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.product">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.report">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.Report_bro">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.Research_paper_amico">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.right_arrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.right_arrow1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.rm222_mind_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.rm222_mind_19">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.rupiah">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.show">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.Speed_test_amico">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.Take_Away_bro">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.transaction_detail">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.transaction_detail_white">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.transaction_detail1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.user">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Project_Persy.My.Resources.Resources.user1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Final_Project_Persy.dsLaporan">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Final_Project_Persy.dsLaporan.tabel_transaksiDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Final_Project_Persy.dsLaporan.tabel_transaksiRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Final_Project_Persy.dsLaporan.tabel_transaksiRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Final_Project_Persy.dsStruk">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Final_Project_Persy.dsStruk.tabel_strukDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Final_Project_Persy.dsStruk.tabel_strukRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Final_Project_Persy.dsStruk.tabel_strukRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+</members>
+</doc>
